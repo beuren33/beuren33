@@ -15,8 +15,7 @@ Edite bio, stack e links conforme quiser.
 
 ### Sobre mim
 
-Sou estudante de Ciência da Computação na UTFPR, de Santa Helena (PR), com foco em DevOps e MLOps, e tenho a certificação AWS Certified Cloud Practitioner. Construo infraestrutura como código, projeto e automatizo pipelines de CI/CD e levo modelos de machine learning até a produção. Atuo com contêineres, Kubernetes e observabilidade para entregar soluções escaláveis e reprodutíveis na nuvem. Cada projeto no meu GitHub é a aplicação prática desse conhecimento.
-
+Sou estudante de Ciência da Computação na UTFPR, de Santa Helena (PR), com foco em DevOps e MLOps, e tenho a certificação AWS Certified Cloud Practitioner.
 <br/>
 
 ### Minhas tecnologias
