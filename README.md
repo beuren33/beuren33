@@ -38,10 +38,11 @@ Sou estudante de Ciência da Computação na UTFPR, de Santa Helena (PR), com fo
 ### Principais projetos
 
 - [spacex-etl-pipeline](https://github.com/beuren33/spacex-etl-pipeline) — Pipeline de ETL da API da SpaceX, orquestrado com Apache Airflow e containerizado com Docker, carregando os dados em PostgreSQL.
+- [wine-predict-deep-learning](https://github.com/beuren33/wine-predict-deep-learning) — Modelo de Deep Learning para previsão da qualidade de vinhos, com pipeline reprodutível e rastreamento de experimentos via MLflow.
+- [wine-quality-Mlops](https://github.com/beuren33/wine-quality-Mlops) — Pipeline completo de MLOps para qualidade de vinho, da ingestão e EDA ao treinamento do modelo.
 - [mlops-churn-prediction](https://github.com/beuren33/mlops-churn-prediction) — Pipeline de MLOps para previsão de churn de clientes, do processamento dos dados ao modelo servido com Flask e Docker.
-- [spacex-plataform-eks](https://github.com/beuren33/spacex-plataform-eks) — Provisionamento de uma plataforma Kubernetes na AWS (EKS).
-- [gitops-workshop-dvn](https://github.com/beuren33/gitops-workshop-dvn) — Práticas de DevOps na nuvem e GitOps aplicadas a ambientes cloud.
-- [stack_tf](https://github.com/beuren33/stack_tf) — Infraestrutura como código com Terraform.
+- [diabete-ml-predict](https://github.com/beuren33/diabete-ml-predict) — Previsão de diabetes com Machine Learning e acompanhamento de experimentos usando MLflow.
+- [ml-generic-project](https://github.com/beuren33/ml-generic-project) — Pipeline genérico de Machine Learning integrado a uma aplicação web em Flask, da ingestão dos dados à disponibilização das previsões.
 
 <br/>
 
