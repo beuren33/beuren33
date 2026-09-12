@@ -15,7 +15,7 @@ Edite bio, stack e links conforme quiser.
 
 ### Sobre mim
 
-Sou estudante de Ciência da Computação na UTFPR, de Santa Helena (PR), com foco em DevOps e MLOps. Tenho a certificação AWS Certified Cloud Practitioner. Gosto de aprender colocando a mão na massa: provisiono infraestrutura, monto pipelines de CI/CD e coloco modelos de machine learning em produção. Uso o GitHub para registrar meus projetos e estudos.
+Sou estudante de Ciência da Computação na UTFPR, de Santa Helena (PR), com foco em DevOps e MLOps, e tenho a certificação AWS Certified Cloud Practitioner. Construo infraestrutura como código, projeto e automatizo pipelines de CI/CD e levo modelos de machine learning até a produção. Atuo com contêineres, Kubernetes e observabilidade para entregar soluções escaláveis e reprodutíveis na nuvem. Cada projeto no meu GitHub é a aplicação prática desse conhecimento.
 
 <br/>
 
@@ -37,12 +37,19 @@ Sou estudante de Ciência da Computação na UTFPR, de Santa Helena (PR), com fo
 
 ### Principais projetos
 
+**DevOps & Cloud**
+
+- [stack_tf](https://github.com/beuren33/stack_tf) — Infraestrutura como código modular com Terraform, com módulos de compute, banco de dados e load balancer separados por ambiente.
+- [ecr-ci-pipeline](https://github.com/beuren33/ecr-ci-pipeline) — Pipeline de CI com GitHub Actions que constrói e publica imagens no Amazon ECR, provisionado via Terraform e autenticação OIDC.
+- [project-3layers-k8s](https://github.com/beuren33/project-3layers-k8s) — Aplicação em três camadas (frontend, backend e banco) containerizada e preparada para rodar em Kubernetes.
+- [gitops-workshop-dvn](https://github.com/beuren33/gitops-workshop-dvn) — Práticas de DevOps na nuvem e GitOps aplicadas a uma aplicação completa, com documentação de arquitetura.
+
+**Machine Learning & MLOps**
+
 - [spacex-etl-pipeline](https://github.com/beuren33/spacex-etl-pipeline) — Pipeline de ETL da API da SpaceX, orquestrado com Apache Airflow e containerizado com Docker, carregando os dados em PostgreSQL.
 - [wine-predict-deep-learning](https://github.com/beuren33/wine-predict-deep-learning) — Modelo de Deep Learning para previsão da qualidade de vinhos, com pipeline reprodutível e rastreamento de experimentos via MLflow.
 - [wine-quality-Mlops](https://github.com/beuren33/wine-quality-Mlops) — Pipeline completo de MLOps para qualidade de vinho, da ingestão e EDA ao treinamento do modelo.
 - [mlops-churn-prediction](https://github.com/beuren33/mlops-churn-prediction) — Pipeline de MLOps para previsão de churn de clientes, do processamento dos dados ao modelo servido com Flask e Docker.
-- [diabete-ml-predict](https://github.com/beuren33/diabete-ml-predict) — Previsão de diabetes com Machine Learning e acompanhamento de experimentos usando MLflow.
-- [ml-generic-project](https://github.com/beuren33/ml-generic-project) — Pipeline genérico de Machine Learning integrado a uma aplicação web em Flask, da ingestão dos dados à disponibilização das previsões.
 
 <br/>
 
