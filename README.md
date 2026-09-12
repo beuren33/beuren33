@@ -13,7 +13,7 @@ Edite bio, stack e links conforme quiser.
 
 <br/>
 
-Estudante focado em infraestrutura, automação e sistemas na nuvem. Estudo contêineres, orquestração, infraestrutura como código e observabilidade.
+Estudante de Ciência da Computação, focado em DevOps e Cloud
 
 <br/>
 
