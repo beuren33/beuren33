@@ -13,19 +13,29 @@ Edite bio, stack e links conforme quiser.
 
 <br/>
 
-Estudante focado em infraestrutura, automação e sistemas na nuvem. Estudo contêineres, orquestração, infraestrutura como código e observabilidade.
+Estudante de Ciência da Computação na UTFPR, focado em DevOps e MLOps. Estudo contêineres, orquestração, infraestrutura como código e observabilidade. AWS Certified Cloud Practitioner.
 
 <br/>
 
 **Stack**
 
-`Linux` `Docker` `Kubernetes` `Terraform` `AWS` `Python` `GitHub Actions` `Prometheus` `Grafana`
+<p>
+<img width="36" height="36" title="Linux" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" />
+<img width="36" height="36" title="Docker" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
+<img width="36" height="36" title="Kubernetes" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" />
+<img width="36" height="36" title="Terraform" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" />
+<img width="36" height="36" title="AWS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" />
+<img width="36" height="36" title="Python" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" />
+<img width="36" height="36" title="GitHub Actions" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/githubactions.png" />
+<img width="36" height="36" title="Prometheus" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" />
+<img width="36" height="36" title="Grafana" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" />
+</p>
 
 <br/>
 
 **Contato**
 
-[LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI) · [Email](mailto:matheusbeuren@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/matheus-beuren-060874389/) · [Email](mailto:matheusbeuren@gmail.com)
 
 <br/>
 
