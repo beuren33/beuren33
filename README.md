@@ -13,7 +13,7 @@ Edite bio, stack e links conforme quiser.
 
 <br/>
 
-Estudante de Ciência da Computação na UTFPR, focado em DevOps e MLOps. Estudo contêineres, orquestração, infraestrutura como código e observabilidade. AWS Certified Cloud Practitioner.
+Estudante de Ciência da Computação, focado em DevOps e Cloud
 
 <br/>
 
