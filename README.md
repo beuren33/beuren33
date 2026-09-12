@@ -7,7 +7,7 @@ Edite bio, stack e links conforme quiser.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=180&section=header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1400&color=2575FC&center=true&vCenter=true&width=560&lines=Matheus+Beuren;DevOps+%7C+Cloud+%7C+MLOps+%7C+Computer Vision+%7C+Machine Learning" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1400&color=2575FC&center=true&vCenter=true&width=560&lines=Matheus+Beuren;DevOps+%7C+Cloud+%7C+MLOps+%7C+Computer+Vision+%7C+Machine+Learning" alt="typing" />
 
 </div>
 
