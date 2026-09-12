@@ -5,7 +5,7 @@ Edite bio, stack e links conforme quiser.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:3a3a3a&height=120&section=header" />
+<img width="100%" src="https://raw.githubusercontent.com/beuren33/beuren33/main/assets/tech-carousel.svg" alt="tech stack carousel" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1400&color=808080&center=true&vCenter=true&width=560&lines=Matheus+Beuren;DevOps+%7C+Cloud+%7C+MLOps" alt="typing" />
 
@@ -14,22 +14,6 @@ Edite bio, stack e links conforme quiser.
 <br/>
 
 Estudante de Ciência da Computação, focado em DevOps e Cloud
-
-<br/>
-
-**Stack**
-
-<p>
-<img width="36" height="36" title="Linux" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" />
-<img width="36" height="36" title="Docker" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
-<img width="36" height="36" title="Kubernetes" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" />
-<img width="36" height="36" title="Terraform" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" />
-<img width="36" height="36" title="AWS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" />
-<img width="36" height="36" title="Python" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" />
-<img width="36" height="36" title="GitHub Actions" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/githubactions.png" />
-<img width="36" height="36" title="Prometheus" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" />
-<img width="36" height="36" title="Grafana" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" />
-</p>
 
 <br/>
 
