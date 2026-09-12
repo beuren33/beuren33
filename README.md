@@ -7,7 +7,7 @@ Edite bio, stack e links conforme quiser.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=180&section=header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1400&color=A78BFA&center=true&vCenter=true&width=560&lines=Matheus+Beuren;DevOps+%7C+Cloud+%7C+MLOps" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1400&color=2575FC&center=true&vCenter=true&width=560&lines=Matheus+Beuren;DevOps+%7C+Cloud+%7C+MLOps" alt="typing" />
 
 </div>
 
@@ -15,11 +15,11 @@ Edite bio, stack e links conforme quiser.
 
 ### Sobre mim
 
-Sou estudante de Ciência da Computação na UTFPR e venho direcionando meus estudos para a área de DevOps e MLOps, já com a certificação AWS Certified Cloud Practitioner conquistada. Nesse contexto, meu interesse não fica só na teoria: cada conceito de infraestrutura ou automação que aprendo eu costumo jogar em um projeto prático pra testar, seja provisionando recursos na nuvem, seja orquestrando contêineres. Em vista disso, uso o GitHub como um registro desse percurso, reunindo desde experimentos simples até stacks mais completas.
-
-Do lado de infraestrutura, meus projetos giram em torno de infraestrutura como código e pipelines de entrega contínua, como pode ser visto no stack_tf e no ecr-ci-pipeline, além de clusters Kubernetes que provisionei em projetos como o basic-stack-k8s e o spacex-plataform-eks, este rodando sobre EKS na AWS. Já o lado de dados eu sigo por um caminho parecido, porém voltado a MLOps: treinei modelos de churn, qualidade de vinho e preço de imóveis e os organizei em pipelines reprodutíveis, citando o mlops-churn-prediction e o wine-quality-Mlops como exemplos, num aprendizado que também passou pelo Bootcamp de Aprendizado de Máquina do LAMIA. Concatenando essas duas frentes, meu objetivo é entender não só como treinar um modelo, mas como colocá-lo de pé em produção.
+Sou estudante de Ciência da Computação na UTFPR, de Santa Helena (PR), com foco em DevOps e MLOps. Tenho a certificação AWS Certified Cloud Practitioner. Gosto de aprender colocando a mão na massa: provisiono infraestrutura, monto pipelines de CI/CD e coloco modelos de machine learning em produção. Uso o GitHub para registrar meus projetos e estudos.
 
 <br/>
+
+### Minhas tecnologias
 
 <p align="center">
 <img width="40" height="40" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;&nbsp;
@@ -32,6 +32,16 @@ Do lado de infraestrutura, meus projetos giram em torno de infraestrutura como c
 <img width="40" height="40" title="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />&nbsp;&nbsp;
 <img width="40" height="40" title="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
 </p>
+
+<br/>
+
+### Principais projetos
+
+- [spacex-etl-pipeline](https://github.com/beuren33/spacex-etl-pipeline) — Pipeline de ETL da API da SpaceX, orquestrado com Apache Airflow e containerizado com Docker, carregando os dados em PostgreSQL.
+- [mlops-churn-prediction](https://github.com/beuren33/mlops-churn-prediction) — Pipeline de MLOps para previsão de churn de clientes, do processamento dos dados ao modelo servido com Flask e Docker.
+- [spacex-plataform-eks](https://github.com/beuren33/spacex-plataform-eks) — Provisionamento de uma plataforma Kubernetes na AWS (EKS).
+- [gitops-workshop-dvn](https://github.com/beuren33/gitops-workshop-dvn) — Práticas de DevOps na nuvem e GitOps aplicadas a ambientes cloud.
+- [stack_tf](https://github.com/beuren33/stack_tf) — Infraestrutura como código com Terraform.
 
 <br/>
 
