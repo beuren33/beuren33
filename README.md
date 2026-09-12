@@ -13,7 +13,7 @@ Edite bio, stack e links conforme quiser.
 
 <br/>
 
-Engenheiro focado em infraestrutura, automação e sistemas na nuvem. Trabalho com contêineres, orquestração, infraestrutura como código e observabilidade.
+Estudante focado em infraestrutura, automação e sistemas na nuvem. Estudo contêineres, orquestração, infraestrutura como código e observabilidade.
 
 <br/>
 
