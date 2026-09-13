@@ -68,10 +68,6 @@ Sou estudante de Ciência da Computação na UTFPR, de Santa Helena (PR), com fo
 - [reconhecedor-emocoes-webcam](https://github.com/beuren33/reconhecedor-emocoes-webcam) — Reconhecimento de emoções faciais em tempo real via webcam, combinando detecção de rosto com Haar Cascade e uma CNN treinada para classificar sete emoções.
 - [rastreio-cor-opencv](https://github.com/beuren33/rastreio-cor-opencv) — Rastreamento de objetos por cor em tempo real com OpenCV, usando o espaço HSV e limpeza de máscara para desenhar a trajetória do movimento.
 
-**Reinforcement Learning**
-
-- [reinforcement-learning-gym](https://github.com/beuren33/reinforcement-learning-gym) — Agente de Q-Learning treinado no ambiente FrozenLake do Gymnasium, aprendendo por tentativa e erro a alcançar o objetivo sem cair nos buracos.
-
 <br/>
 
 **Contato**
