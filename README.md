@@ -64,9 +64,9 @@ Sou estudante de Ciência da Computação na UTFPR, de Santa Helena (PR), com fo
 **Computer Vision**
 
 - [cifar10-cnn-pytorch](https://github.com/beuren33/cifar10-cnn-pytorch) — Classificação de imagens do CIFAR-10 com CNN em PyTorch, extraindo características em camadas convolucionais até decidir entre as dez classes.
-- [colorizacao-imagens-intel-pytorch](https://github.com/beuren33/colorizacao-imagens-intel-pytorch) — Autoencoder convolucional que coloriza imagens em preto e branco, prevendo os canais de cor a e b no espaço Lab a partir do canal de brilho.
-- [reconhecedor-emocoes-webcam](https://github.com/beuren33/reconhecedor-emocoes-webcam) — Reconhecimento de emoções faciais em tempo real via webcam, combinando detecção de rosto com Haar Cascade e uma CNN treinada para classificar sete emoções.
-- [rastreio-cor-opencv](https://github.com/beuren33/rastreio-cor-opencv) — Rastreamento de objetos por cor em tempo real com OpenCV, usando o espaço HSV e limpeza de máscara para desenhar a trajetória do movimento.
+- [image-colorization-pytorch](https://github.com/beuren33/image-colorization-pytorch) — Autoencoder convolucional que coloriza imagens em preto e branco, prevendo os canais de cor a e b no espaço Lab a partir do canal de brilho.
+- [facial-emotion-recognition-cnn](https://github.com/beuren33/facial-emotion-recognition-cnn) — Reconhecimento de emoções faciais em tempo real via webcam, combinando detecção de rosto com Haar Cascade e uma CNN treinada para classificar sete emoções.
+- [color-tracking-opencv](https://github.com/beuren33/color-tracking-opencv) — Rastreamento de objetos por cor em tempo real com OpenCV, usando o espaço HSV e limpeza de máscara para desenhar a trajetória do movimento.
 
 <br/>
 
