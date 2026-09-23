@@ -15,7 +15,7 @@ Edite bio, stack e links conforme quiser.
 
 ### Sobre mim
 
-Sou estudante de Ciência da Computação na UTFPR, de Santa Helena (PR), com foco em DevOps e MLOps, e tenho a certificação AWS Certified Cloud Practitioner.
+Estudante de Ciência da Computação na UTFPR, com foco em DevOps, Mlops e AWS.
 <br/>
 
 ### Minhas tecnologias
