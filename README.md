@@ -15,7 +15,7 @@ Edite bio, stack e links conforme quiser.
 
 ### Sobre mim
 
-Estudante de Ciência da Computação na UTFPR, com foco em DevOps, Mlops e AWS.
+Estudante de Ciência da Computação na UTFPR, com foco em DevOps, MLops e AWS.
 <br/>
 
 ### Minhas tecnologias
