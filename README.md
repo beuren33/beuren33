@@ -1,4 +1,4 @@
-<!-- Perfil de beuren33. Cada bloco é um SVG em assets/ (claro e escuro); os números de projetos e commits são um retrato de 15/11/2026. -->
+<!-- Perfil de beuren33. Cada bloco é um SVG animado em assets/ (claro e escuro); os números de projetos e commits são um retrato de 15/11/2026. -->
 
 <p>
 <picture><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"><img align="left" src="assets/header-dark.svg" alt="Matheus Beuren, graduando em ciência da computação, LAMIA, ao lado da foto de perfil em meio-tom de pontos, com a contagem de projetos e commits" width="97%"></picture>
